@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: cullparticles-2.0-1.16.5
+Implementation-Version: 1.16.5-1.0
+Specification-Vendor: cullparticlessareus
+Specification-Title: cullparticles
+Implementation-Timestamp: 2023-05-13T12:12:06+0200
+Specification-Version: 1
+Implementation-Vendor: cullparticlessareus
+
